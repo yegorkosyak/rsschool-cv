@@ -15,3 +15,17 @@ _Date of birth_: 21/05/2001 | _Nationality_: Ukrainian | _Gender_: Male | _Tel_:
 - Testing
 - Troubleshooting website problems
 - Maintaining and updating the application
+
+## **EDUCATION**
+
+---
+
+01/09/2017 – 30/04/2021 | Osiedle Złotej Jesieni 2, Cracow, Poland \
+**IT SPECIALIST** – Zespół Szkół Zawodowych Huty im. Tadeusza Sendzimira
+[https://www.zszhs.krakow.pl](https://www.zszhs.krakow.pl)
+
+---
+
+01/10/2021 – 15/05/2022 | Świętego Filipa 17, Cracow, Poland\
+**SOFTWARE ENGINEER** – Wyższa Szkoła Ekonomii i Informatyki w Krakowie
+[https://wsei.edu.pl/](https://wsei.edu.pl/)
