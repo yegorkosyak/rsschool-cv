@@ -34,7 +34,7 @@ _Date of birth_: 21/05/2001 | _Nationality_: Ukrainian | _Gender_: Male | _Tel_:
 
 ---
 
-Mother tongues: **UKRAINIAN** | **RUSSIAN**\
+Mother tongues: **UKRAINIAN** | **RUSSIAN**
 Other languages: **ENGLISH** - _B2_ | **POLISH** - _C1_
 
 ## **DIGITAL SKILLS**
