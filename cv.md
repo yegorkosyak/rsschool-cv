@@ -29,3 +29,25 @@ _Date of birth_: 21/05/2001 | _Nationality_: Ukrainian | _Gender_: Male | _Tel_:
 01/10/2021 – 15/05/2022 | Świętego Filipa 17, Cracow, Poland\
 **SOFTWARE ENGINEER** – Wyższa Szkoła Ekonomii i Informatyki w Krakowie
 [https://wsei.edu.pl/](https://wsei.edu.pl/)
+
+## **LANGUAGE SKILLS**
+
+---
+
+Mother tongues: **UKRAINIAN** | **RUSSIAN**\
+Other languages: **ENGLISH** - _B2_ | **POLISH** - _C1_
+
+## **DIGITAL SKILLS**
+
+---
+
+**Basic**\
+Microsoft Office | Google Drive | Social Media | Zoom
+
+**Programming**\
+HTML 5 | CSS,SASS,LESS,SCSS | React ecosystem: ReactJS, React Router, Redux | MongoDB |
+MySQL | Git and Github | Node js (express framework)
+
+**Personal skills**\
+Organizational and planning skills | Analytical skills | Decision-making | Flexibility | Critical thinking |
+Motivated | Creativity | Research and analytical skills | Responsibility
